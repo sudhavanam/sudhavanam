@@ -3096,7 +3096,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-secondary {
-    width: 35%;
+    width: 100%;
 }
 
 .contact-secondary::before {
